@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/user01/.vim/pack/plugins/start'
+let g:netrw_dirhist_3='/home/user01/terraform/azure/vm'
+let g:netrw_dirhist_2='/etc/netplan'
+let g:netrw_dirhist_1='/home/user01/eks'
+let g:netrw_dirhist_0='/home/user01'
+let g:netrw_dirhist_9='/home'
+let g:netrw_dirhist_8='/home/user01'
+let g:netrw_dirhist_7='/home/user01/eks'
+let g:netrw_dirhist_6='/home/user01'
+let g:netrw_dirhist_5='/home/user01/terraform/azure/vm/main.tf'
