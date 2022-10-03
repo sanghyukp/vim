@@ -1,0 +1,3 @@
+[submodule "pack/plugins/start/10.vim-airline"]
+	path = pack/plugins/start/10.vim-airline
+	url = https://github.com/vim-airline/vim-airline
